@@ -1,6 +1,5 @@
 # hashcat
 A Collection of dictionaries for emergency use.
 
-Dictionary >  WPA/WPA2
-              universal
-              rockyou.txt
+Most common and popular dictionary is rockyou.txt (recommended by offsec kali linux developers)
+Other recommended dictionaries are stored in folders category wise.
