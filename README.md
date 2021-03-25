@@ -1,5 +1,5 @@
 # hashcat
-A great command line based hash cracker.
+A Collection of dictionaries for emergency use.
 
 Dictionary >  WPA/WPA2
               universal
