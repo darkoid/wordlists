@@ -1,7 +1,8 @@
 # hashcat
 A Collection of dictionaries for emergency use.
 
-Most common and popular dictionary is **rockyou.txt** (recommended by offsec kali linux developers)
+Most common and popular dictionary is **rockyou.txt** (recommended by offsec kali linux developers) can be found at https://github.com/praetorian-inc/Hob0Rules/blob/master/wordlists/rockyou.txt.gz
+
 Other recommended dictionaries are stored in folders category wise.
 
 ## Kaonashi Wordlist
