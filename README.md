@@ -5,6 +5,18 @@ Most common and popular dictionary is **rockyou.txt** (recommended by offsec kal
 
 Other recommended dictionaries are stored in folders category wise.
 
+## Suggested Links by zSecurity ( Zaid Sabih )
+ftp://ftp.openwall.com/pub/wordlists/
+http://www.openwall.com/mirrors/
+https://github.com/danielmiessler/SecLists
+http://www.outpost9.com/files/WordLists.html
+http://www.vulnerabilityassessment.co.uk/passwords.htm
+http://packetstormsecurity.org/Crackers/wordlists/
+http://www.ai.uga.edu/ftplib/natural-language/moby/
+http://www.cotse.com/tools/wordlists1.htm
+http://www.cotse.com/tools/wordlists2.htm
+http://wordlist.sourceforge.net/
+
 ## Kaonashi Wordlist
 These wordlist has been extracted from real password leaksa, and sorted by number of ocurrences. By having this wordlists sorted this way, users can extract TOP _n_ lines/passwords and create custom wordlists based on their needs.
 
