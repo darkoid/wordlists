@@ -7,14 +7,23 @@ Other recommended dictionaries are stored in folders category wise.
 
 ## Suggested Links by zSecurity ( Zaid Sabih )
 ftp://ftp.openwall.com/pub/wordlists/
+
 http://www.openwall.com/mirrors/
+
 https://github.com/danielmiessler/SecLists
+
 http://www.outpost9.com/files/WordLists.html
+
 http://www.vulnerabilityassessment.co.uk/passwords.htm
+
 http://packetstormsecurity.org/Crackers/wordlists/
+
 http://www.ai.uga.edu/ftplib/natural-language/moby/
+
 http://www.cotse.com/tools/wordlists1.htm
+
 http://www.cotse.com/tools/wordlists2.htm
+
 http://wordlist.sourceforge.net/
 
 ## Kaonashi Wordlist
