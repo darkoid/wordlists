@@ -5,7 +5,6 @@ Most common and popular dictionary is **rockyou.txt** (recommended by offsec kal
 
 My **Favorite** wordlists collection:
 * https://github.com/danielmiessler/SecLists
-
 It contains various dictionaries according to need like username, subdomain, password, fuzzing, payloads and many more lists.
 
 Other recommended dictionaries are stored in folders category wise.
