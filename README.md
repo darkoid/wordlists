@@ -3,7 +3,8 @@ A Collection of dictionaries for emergency use.
 
 Most common and popular dictionary is **rockyou.txt** (recommended by offsec kali linux developers) can be found at https://github.com/praetorian-inc/Hob0Rules/blob/master/wordlists/rockyou.txt.gz
 
-My Favorite wordlists collection: * https://github.com/danielmiessler/SecLists
+My **Favorite** wordlists collection:
+* https://github.com/danielmiessler/SecLists
 
 It contains various dictionaries according to need like username, subdomain, password, fuzzing, payloads and many more lists.
 
